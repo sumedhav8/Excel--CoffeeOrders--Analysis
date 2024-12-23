@@ -31,7 +31,7 @@ Some key visualizations included:
 1. **Sales Trend Chart**: Displays revenue fluctuations over time.  
 2. **Product Popularity Bar Chart**: Highlights the most frequently ordered products.
 
-https://github.com/sumedhav8/Excel--CoffeeOrders--Analysis/blob/main/Dashboard](https://github.com/sumedhav8/Excel--CoffeeOrders--Analysis/blob/main/Screenshot%20(50).png?raw=true)
+[https://github.com/sumedhav8/Excel--CoffeeOrders--Analysis/blob/main/Dashboard](https://github.com/sumedhav8/Excel--CoffeeOrders--Analysis/blob/main/Screenshot%20(50).png?raw=true)](https://github.com/sumedhav8/Excel--CoffeeOrders--Analysis/blob/main/Screenshot%20(50).png?raw=true)
 
 ##  How to Use This Project  
 1. Download the `coffeeOrdersData Project 1.xlsx` file from this repository.  
