@@ -32,7 +32,7 @@ Some key visualizations included:
 2. **Product Popularity Bar Chart**: Highlights the most frequently ordered products.
 
 [https://github.com/sumedhav8/Excel--CoffeeOrders--Analysis/blob/main/Dashboard](https://github.com/sumedhav8/Excel--CoffeeOrders--Analysis/blob/main/Screenshot%20(50).png?raw=true)](https://github.com/sumedhav8/Excel--CoffeeOrders--Analysis/blob/main/Screenshot%20(50).png?raw=true)
-
+Screenshot (50).png
 ##  How to Use This Project  
 1. Download the `coffeeOrdersData Project 1.xlsx` file from this repository.  
 2. Open the file in Microsoft Excel or a compatible spreadsheet tool.  
